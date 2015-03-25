@@ -1,0 +1,40 @@
+{
+  "ProjectName": "Telerik-MobileTesting",
+  "ProjectGuid": "dd2fdb65-16b0-42c9-9453-8db36f901370",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TelerikMobileTesting",
+  "DisplayName": "Telerik-MobileTesting",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{6c6bb015-1e28-4766-b0ad-b5a3e0280766}",
+  "WP8ProductID": "{84dedc13-7dbe-4b66-9093-2de260dafdf8}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TelerikMobileTesting",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
