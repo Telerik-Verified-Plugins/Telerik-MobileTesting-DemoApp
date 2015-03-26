@@ -1,0 +1,8 @@
+{
+  "ProjectName": "Telerik-MobileTestingMobileTesting",
+  "ProjectGuid": "95b7603d-7963-491d-a7b3-563878a0eb1b",
+  "projectVersion": 1,
+  "ProjectTypeGuids": "{6319b66f-8dff-4073-91be-3cd48a2fdeb3}",
+  "FrameworkVersion": "1.0",
+  "Framework": "MobileTesting"
+}
