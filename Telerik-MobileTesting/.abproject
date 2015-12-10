@@ -45,5 +45,6 @@
     "cordova-plugin-dialogs",
     "cordova-plugin-splashscreen",
     "cordova-plugin-statusbar"
-  ]
+  ],
+  "iOSDeploymentTarget": "7.0"
 }
